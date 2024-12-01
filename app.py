@@ -6,3 +6,5 @@ print("1")
 print("folder3 added")
 def funtion2():
   pass
+
+print("1")
