@@ -1,1 +1,2 @@
-#### SRF LABEL Code Scan
+Pip:
+`pip install -r requirements.txt`
