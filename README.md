@@ -1,6 +1,8 @@
-# 📊 Sales Prediction App  
-Predict sales trends using Machine Learning algorithms 🚀  
-
-![Python](https://jagadeesh-resume.streamlit.app/api)
-![Framework](https://img.shields.io/badge/Framework-Scikit--Learn-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+## 📚 Table of Contents  
+1. [Features](#features)  
+2. [Installation](#installation)  
+3. [Usage](#usage)  
+4. [Screenshots](#screenshots)  
+5. [Contributing](#contributing)  
+6. [License](#license)  
+7. [Contact](#contact)  
